@@ -72,6 +72,9 @@ ALL('public cc_detail'),
 
 # Project Overview
 
+[Credit Card Financial Dashboard.pdf](https://github.com/user-attachments/files/15774471/Credit.Card.Financial.Dashboard.pdf)
+
+
 
 
 
