@@ -1,4 +1,4 @@
-# Credit-Card-Financial-Dashboard-using-Power-BI
+# "CreditVision: Power BI Insights for Credit Card Financials"
 
 
 Here, we've crafted a dynamic weekly dashboard that offers real-time insights into crucial performance metrics and trends. This tool empowers stakeholders to efficiently monitor and analyze credit card operations, ensuring informed decision-making and proactive management. Dive into our dashboard and unlock the power of data-driven insights for optimizing credit card operations!
